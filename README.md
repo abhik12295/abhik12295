@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h1 align="center">Abhishek Kumar</h1>
 <h3 align="center">Master's in Computer Science at Illinois Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhik12295&label=Profile%20views&color=0e75b6&style=flat" alt="abhik12295" /> </p>
