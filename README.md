@@ -10,8 +10,7 @@
   <a href="https://www.linkedin.com/in/abhishek12295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abhishek-kumar-40860284/" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/abhik12295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhik12295" height="30" width="40" /></a>
 <a href="https://leetcode.com/abhi_1294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/progress/" height="30" width="40" /></a>
-<a href="https://https://x.com/abhi_1294" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/59b34795-56e6-4bf8-86e7-8e09621eec51)
-" alt="X" height="30" width="40" /></a>
+<a href="https://https://x.com/abhi_1294" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/c75c99a9-d22b-4e62-bfa3-80b4d4a88882)" alt="X" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
