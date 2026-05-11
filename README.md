@@ -30,32 +30,6 @@ Data Science Developer | AI/ML Engineer | BI & Analytics
   </a>
 </p>
 
----
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,git,github,django,fastapi,html,css,js,java,kotlin,linux,c,android,mysql,postgres,tensorflow,pytorch" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abhik12295&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhik12295&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
-</p>
-
----
-
 ## 🚀 Current Focus
 
 - Building AI-powered analytics and RAG applications
