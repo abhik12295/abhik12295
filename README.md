@@ -1,36 +1,42 @@
 <h1 align="center">Abhishek Kumar</h1>
-<h4 align="center">Data Science Developer</h4>
+<h3 align="center">Data Science Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhik12295&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abhik12295&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Connect with me
 
 <p align="left">
   <a href="https://www.hackerrank.com/abhik12295" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/>
   </a>
+
   <a href="https://leetcode.com/abhi_1294/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
   </a>
+
   <a href="https://x.com/abhi_1294" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/x/white" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,aws,git,html,css,js,java,kotlin,linux,django,c,android" />
 </p>
 
-<br>
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhik12295&layout=compact&theme=merko" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhik12295&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhik12295&show_icons=true&theme=merko" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhik12295&layout=compact&theme=merko" height="180em"/>
 </p>
