@@ -25,9 +25,6 @@ Data Science Developer | AI/ML Engineer | BI & Analytics
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
   </a>
 
-  <a href="https://x.com/abhi_1294" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/white" height="45"/>
-  </a>
 </p>
 
 ---
