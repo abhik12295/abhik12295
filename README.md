@@ -1,43 +1,50 @@
-<h1 align="center">Abhishek Kumar</h1>
-<h3 align="center">Data Science Developer</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+
+<h3 align="center">
+Data Science Developer | AI/ML Engineer | BI & Analytics
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhik12295&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhik12295&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  Passionate about AI, Machine Learning, Data Engineering, Analytics, and Building Intelligent Systems 🚀
 </p>
 
 ---
 
-## Connect with me
+## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.hackerrank.com/abhik12295" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="Hackerrank" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="45"/>
   </a>
 
   <a href="https://leetcode.com/abhi_1294/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
   </a>
 
   <a href="https://x.com/abhi_1294" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/x/white" height="45"/>
   </a>
 </p>
 
 ---
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,git,html,css,js,java,kotlin,linux,django,c,android" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,git,github,django,fastapi,html,css,js,java,kotlin,linux,c,android,mysql,postgres,tensorflow,pytorch" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=abhik12295&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=abhik12295&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
     height="180em"
   />
 
@@ -46,3 +53,18 @@
     height="180em"
   />
 </p>
+
+---
+
+## 🚀 Current Focus
+
+- Building AI-powered analytics and RAG applications
+- Exploring LLMs, Agentic AI, and Vector Databases
+- Developing scalable ML/Data Engineering pipelines
+- Research in AI, Deep Learning, and Intelligent Systems
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building AI systems that solve real-world operational and business problems using data.
