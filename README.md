@@ -17,8 +17,8 @@ Data Science Developer | AI/ML Engineer | BI & Analytics
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.hackerrank.com/abhik12295" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="45"/>
+  <a href="https://www.linkedin.com/in/abhik12295/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 
   <a href="https://leetcode.com/abhi_1294/" target="_blank">
@@ -29,6 +29,8 @@ Data Science Developer | AI/ML Engineer | BI & Analytics
     <img src="https://cdn.simpleicons.org/x/white" height="45"/>
   </a>
 </p>
+
+---
 
 ## 🚀 Current Focus
 
